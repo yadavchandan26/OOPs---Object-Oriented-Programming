@@ -17,4 +17,5 @@ class college_student:
 
 
 s1=college_student('rahul',19)
-s2=college_student()
+s2=college_student('kunal',20)
+
