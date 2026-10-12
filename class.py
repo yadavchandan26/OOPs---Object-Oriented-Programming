@@ -39,3 +39,4 @@ s1=student_("ayush",2)
 s2=student_("shreya",3)
 
 s1.introduce()
+s2.introduce()
