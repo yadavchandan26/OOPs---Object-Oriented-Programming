@@ -23,3 +23,9 @@ print(s1.name)
 print(s1.age)
 
 print(s2.name,s2.age)
+
+class student_:
+
+    def __init__(self,name,year):
+        self.name=name
+        self.year=year
