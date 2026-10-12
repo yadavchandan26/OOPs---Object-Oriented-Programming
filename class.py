@@ -34,4 +34,8 @@ class student_:
         print(f"My name is : {self.name}")
         print(f"I'm {self.year} year of college student.")
         print('Thank you>>')
-        
+
+s1=student_("ayush",2)
+s2=student_("shreya",3)
+
+s1.introduce()
