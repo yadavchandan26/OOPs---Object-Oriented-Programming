@@ -1,6 +1,6 @@
 # Object Oriented Programming
 class student:
-    name='rahul'
+    name='rahul_chapari'
     age=18
 
 s1=student()
@@ -19,3 +19,7 @@ class college_student:
 s1=college_student('rahul',19)
 s2=college_student('kunal',20)
 
+print(s1.name)
+print(s1.age)
+
+print(s2.name,s2.age)
