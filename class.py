@@ -29,3 +29,9 @@ class student_:
     def __init__(self,name,year):
         self.name=name
         self.year=year
+
+    def introduce(self):
+        print(f"My name is : {self.name}")
+        print(f"I'm {self.year} year of college student.")
+        print('Thank you>>')
+        
