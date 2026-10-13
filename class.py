@@ -50,4 +50,4 @@ class sub:
         return print(f"subtraction will be {self.a-self.b}")
 
 
-    
+A=sub(5,6)
