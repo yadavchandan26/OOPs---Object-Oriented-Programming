@@ -40,3 +40,14 @@ s2=student_("shreya",3)
 
 s1.introduce()
 s2.introduce()
+
+class sub:
+    def __init__(self,a,b):
+        self.a=a
+        self.b=b
+    
+    def sub(self):
+        return print(f"subtraction will be {self.a-self.b}")
+
+
+    
