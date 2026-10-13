@@ -51,4 +51,4 @@ class sub:
 
 
 A=sub(5,6)
-A.sub()
+A.sub
